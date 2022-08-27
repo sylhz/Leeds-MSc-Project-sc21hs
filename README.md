@@ -2,7 +2,7 @@
 
 Leeds Msc Project code.
 
-Dataset: Kaggle Cassava Leaf Disease Classification。
+Dataset: Kaggle Cassava Leaf Disease Classification.
 
 Author: Huizhi Shi
 
